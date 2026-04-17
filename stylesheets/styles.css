@@ -11,7 +11,8 @@ body {
 
 header {
 /*  width: 270px;*/
-  width: 320px;
+/*  width: 320px;*/
+  width: 380px
   float: left;
   position: fixed;
 }
@@ -75,7 +76,9 @@ a small {
 }
 
 .wrapper {
-  width: 1020px;
+  /*width: 1020px;*/
+  max-width: 1200px;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -177,7 +180,9 @@ header ul a strong {
 }
 
 section {
-  width: 650px;
+/*  width: 650px;*/
+  width: 800px;
+  margin-left: 420px;
   float: right;
   padding-left: 20px;
   padding-right: 20px;
