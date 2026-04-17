@@ -1,5 +1,32 @@
----
+/*---
 ---
 $info-color: #158df7;
 @import "jekyll-theme-minimal";
 @import "minimal-mistakes"; // main partials
+*/
+
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* Remove sidebar layout */
+.wrapper {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Make header behave like normal content */
+header {
+  float: none;
+  position: static;
+  width: 100%;
+  padding-right: 0;
+}
+
+/* Make main content full width */
+section {
+  float: none;
+  width: 100%;
+}
