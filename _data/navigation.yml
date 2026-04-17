@@ -3,6 +3,8 @@ main:
     url: /#pubs
   - title: "<b>Working Papers</b>"
     url: /#working
+  - title: "<b>Other Work</b>"
+    url: /#other
   - title: "<b>Teaching Assistant</b>"
     url: /#teaching
   # - title: "<b>R Screencasts</b>"
