@@ -1,1 +1,1 @@
-<https://www.jenswiederspohn.github.io>
+<https://jenswiederspohn.github.io>
